@@ -8,7 +8,6 @@
 - [Features](#features)
 - [Technologies Used](#technologies-used)
 - [Installation](#installation)
-- [Usage](#usage)
 - [Contributing](#contributing)
 - [License](#license)
 - [Contact](#contact)
@@ -45,30 +44,39 @@ To set up the Bill Management System on your local machine, follow these steps:
    git clone https://github.com/yourusername/bill-management-system.git
 
 2. **Navigate to the Project Directory:**:
-        cd bill-management-system
+   ```bash
+   cd bill-management-system
 
 3.**Install Required Packages: You can use pip to install the required libraries:**
+
         pip install -r requirements.txt
 
 4.**Run the application:**
-    python filename.py
 
-Contributing
+      python filename.py
+
+---
+
+## Contributing  
 Contributions are welcome! If you have suggestions for improvements or would like to contribute, please follow these steps:
 
-1)Fork the repository.
-2)Create a new branch (git checkout -b feature/YourFeature).
-3)Make your changes and commit them (git commit -m 'Add new feature').
-4)Push to the branch (git push origin feature/YourFeature).
-5)Open a Pull Request.
+1)Fork the repository.  
+2)Create a new branch (```git checkout -b feature/YourFeature```).  
+3)Make your changes and commit them (```git commit -m 'Add new feature'```).  
+4)Push to the branch (```git push origin feature/YourFeature```).  
+5)Open a Pull Request.  
 
 
-6)License
-This project is licensed under the MIT License. See the LICENSE file for details.
+---
+## License  
 
-Contact
-For any questions or feedback, feel free to reach out:
+This project is licensed under the MIT [LICENSE](./LICENSE). See the LICENSE file for details.
 
-Name: Adarsh V.
-Email: virendra.adarsh55@gmail
+---
+
+## Contact  
+For any questions or feedback, feel free to reach out:  
+
+Name: Adarsh V.  
+Email: virendra.adarsh55@gmail  
 GitHub: adarshv1025
