@@ -440,5 +440,5 @@ btn_exit.place(x=1210,y=10)
 
 
 
-root.mainloop()  #to show the window
+root.mainloop()  #to show the windows
 
